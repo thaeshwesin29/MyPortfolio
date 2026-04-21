@@ -2,7 +2,7 @@
 export const personalInfo = {
   name: 'Thae Shwe Sin',
   title: 'Senior Full Stack Developer',
-  description: 'As a senior developer with 2 years of experience, I build efficient, scalable, and user-centric digital solutions using modern technologies.',
+  description: 'I specialize in building scalable web applications using Laravel, Vue.js, and ASP.NET, focusing on performance, clean architecture, and real-world business solutions.',
   email: 'alex.thompson@email.com',
   linkedin: 'https://linkedin.com/in/alexthompson',
   github: 'https://github.com/alexthompson',
